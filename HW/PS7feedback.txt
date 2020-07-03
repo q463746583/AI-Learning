@@ -1,0 +1,5 @@
+84/100
+1. 18/25 —> incorrect calculation for x4 and incorrect classification
+2. 25/25
+3. 23/25 —> correct conclusion but more work should be shown to prove this
+4. 18/25 —> no calculation for accuracy in 4.2

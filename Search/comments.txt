@@ -1,0 +1,10 @@
+Auto/Manual
+75/25
+
+Auto: 26/25
+Manual: 25/25
+
+Good implementation. Nothing of note.
+Well done.
+
+Total: 103

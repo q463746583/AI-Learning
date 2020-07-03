@@ -1,0 +1,8 @@
+1. Definition of overfitting not accurate. It's not too many features in the model, but the 
+   model fits too closely to the training data and doesn't generalize well to new data. -2
+2. What is the problem with the learning rate? -1
+3. Correct
+4. Correct 
+5. Answer is (b) -2
+
+Grade: 7/12

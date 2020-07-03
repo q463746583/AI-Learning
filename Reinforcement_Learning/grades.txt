@@ -1,0 +1,21 @@
+caozhi
+
+Total: 100/100
+
+Autograder worth 75%, manual grading worth 25%
+
+Question Breakdown:
+AUTOGRADER | MANUAL
+
+Q1: 12/12  | 4/4
+Q2: 3/3	   | 1/1
+Q3: 15/15  | 5/5
+Q4: 3/3	   | 1/1
+Q5: 9/9	   | 3/3
+Q6: 12/12  | 4/4
+Q7: 6/6    | 2/2
+Q8: 3/3	   | 1/1
+Q9: 3/3	   | 1/1
+Q10: 9/9   | 3/3
+
+

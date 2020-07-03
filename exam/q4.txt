@@ -1,0 +1,4 @@
+1. 5/8 If done w/ this approach need to unnormalize at the end with by multiplying by P(O1 = A, O2 = B)
+2. 7/8 Correct X1 computation, incorrect X2 computation (throwing off normalization
+
+Grade: 12/16
